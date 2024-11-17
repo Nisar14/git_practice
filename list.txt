@@ -14,6 +14,11 @@ Pork
 Rabbit
 
 Dairy
+Milk
+Eggs
+Yougart
+Butter
+Cheese
 
 Household
 
