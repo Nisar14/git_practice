@@ -4,3 +4,12 @@ strawberries
 Oranges
 Peas
 Carrot
+
+Meat
+sausages
+
+Dairy
+
+Household
+
+Pets
