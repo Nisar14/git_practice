@@ -18,7 +18,7 @@ Milk
 Eggs
 Yougart
 Butter
-Cheese
+
 
 Household
 Kitchen Burner
